@@ -4,4 +4,5 @@ Logistic Regression and KNN
 # Installation
 ## Install Python 3.7 along with Numpy, Pandas, Scikitlearn, Matplotlib, Seaborn
 ## Install Jupyte Notebook and launch it.
+## Or use "pip install --user --requirement requirements.txt" cmd
 
